@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 ( Success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 	{
 	for (p = d + 1; p <= '9'; p++)
 	{
-	for (q = p = 1; q <= '9'9; q++)
+	for (q = p = 1; q <= '9'; q++)
 	{
 	if ((p != d) != q)
 	{
